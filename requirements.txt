@@ -1,0 +1,7 @@
+gymnasium[classic-control]
+numpy
+matplotlib
+pygame
+pillow
+torch
+psutil
